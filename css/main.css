@@ -2,13 +2,17 @@ logo {
         width: 400px;
         length: 400px;
 }
-
-
-
+Navigation {
+        
+        
+}
 
 body {
+     font-family: Arial, Centaur, "Century Gothic";
+        font-size: 11pt;
     margin: 60px auto;
     width: 70%;
+    color: orange;    
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
