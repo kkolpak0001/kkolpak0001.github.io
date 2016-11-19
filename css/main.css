@@ -1,9 +1,9 @@
-logo {
+#logo {
         width: 400px;
         length: 400px;
 }
 Navigation {
-        
+        display: inline;
         
 }
 
