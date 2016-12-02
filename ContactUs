@@ -10,32 +10,53 @@
     <meta name="description" content="Source code generated using layoutit.com">
     <meta name="author" content="LayoutIt!">
 	  
-	<link rel="stylesheet" type="text/css" href="/css/main.css">
-
+	<link rel="stylesheet" type="text/css" href="kkolpak0001.github.io/css/main.css">
+	
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
 
   </head>
-   <body>
+  <body>
 
     <div class="container-fluid">
 	<div class="row">
-		<div class="Logo">
-			<img alt="Awesome Connections!" src="FinalCompanyLogo3.png">
+		<div>
+			<img class="Logo" alt="Awesome Connections!" src="FinalCompanyLogo3.png">
 		</div>
 		<div class="col-md-10">
 			<ul class="navigation">
-				<li>
-					<a href="#">Home</a> <span class="divider"></span>
+				<li class="navigation">
+					<a href="updatedGithub.html">Home</a> <span class="divider"></span>
 				</li>
-				<li>
-					<a href="#">Products and Services</a> <span class="divider"></span>
+				<li class="navigation">
+					<a href="updatedGithubProducts.html">Products and Services</a> <span class="divider"></span>
 				</li>
-				<li>
-					<a href="#">About us</a> <span class="divider"></span>
+				<li class="navigation">
+					<a href="updatedGithubAboutUs.html">About us</a> <span class="divider"></span>
 				</li>
-				<li>	<a href="#">Contact Us</a> <span class="divider"></span>
-				
+				<li class="navigation">	
+					<a href="updatedGithubContactUs.html">Contact Us</a> <span class="divider"></span>
+				</li>
 			</ul>
 		</div>
 	</div>
+	<div class="WeDo">
+			<h2>
+				Who We Are
+			</h2>
+			<p>
+				We are a company that offers almost every connector under the sun. We sell connectors for all types of Coax cable, as well as ethernet and telephone connectors. We also provide a rewiring service where we will come out and replace all old coax and telephone cable and install any HDMI cables wherever you would prefer to wallmount your TVs. We can also run any speaker wire for your surround system. 
+				Our shipping department ships our connectors anywhere in the world. The connectors will come with a set of instructions for proper installation. Our rewiring service is currently only offered for the greater Chicagoland area and the greater Louisville, Kentucky area. We are slowly expanding to major cites around the country.
+			</p>
+	</div>
+	<fieldset  class="request">
+				<legend>Request a qoute </legend>
+				<label> Email: <br />
+				<input type="text" name="email" /></label><br />
+				<label> Telephone: <br />
+				<input type="text" name="phone" /></label><br />
+				<label> Number of Rooms <br />
+				<input type="text" name="Room" /></label><br />
+	</fieldset>
+</body>		
+</html>
