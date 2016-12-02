@@ -16,3 +16,26 @@
     <link href="css/style.css" rel="stylesheet">
 
   </head>
+   <body>
+
+    <div class="container-fluid">
+	<div class="row">
+		<div class="Logo">
+			<img alt="Awesome Connections!" src="FinalCompanyLogo3.png">
+		</div>
+		<div class="col-md-10">
+			<ul class="navigation">
+				<li>
+					<a href="#">Home</a> <span class="divider"></span>
+				</li>
+				<li>
+					<a href="#">Products and Services</a> <span class="divider"></span>
+				</li>
+				<li>
+					<a href="#">About us</a> <span class="divider"></span>
+				</li>
+				<li>	<a href="#">Contact Us</a> <span class="divider"></span>
+				
+			</ul>
+		</div>
+	</div>
