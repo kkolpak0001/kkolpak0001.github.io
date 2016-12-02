@@ -1,14 +1,15 @@
 body	{font-family: Arial, Centaur, "Century Gothic";
 	font-size: 11pt;
-	background:#bfd62b;
+	background:#994d00;
 	width: 1750px;}
 h2 { 
 	color: blue;}
 
 li.navigation	{display: inline;
 			list-style-type: none;
-			background-color:;
-			color:;
+			background-color:yellow;
+			color:blue;
+			font-size: 50px;
 			}
 				
 img.Logo {
@@ -21,40 +22,67 @@ ul.Media {
 		width:200px
 		 
 	}
-div.footerer{ display: inline;
-		width:1750px;
-		bottom:2px;
-		position: absolute;
-		border: 3px solid #111111
-		list-style-type:none;
-		}
-.ServicesFooter{
-		: center;
-		color: red;
-		
-				}	
+.footer{
+	bottom: 2px;
+	}
+	
+
 .request{
 		width: 200px;
 		float: right;
 		padding:3px;
 		position:relative;
+		background:#73e600;
+		
+		
 		}
 .News{border: 3px solid #111111;
 	position:relative;
+	width: 1090px;
+	top:50%;
+	left: 15%;
+	height:610px;
+	background:#73e600 ;
+	
 	
 
 }
 .upcoming{border: 3px solid #111111;
 		float:left;
-		width: 100px;
+		width: 240px;
 		position:relative;
+		padding:5px;
+		height:600px;
+		background: #73e600;
 		
 
 }
 .Past{border: 3px solid #111111;
 	float: right;
-	width: 100px;
+	width: 150px;
 	position: relative;
-	
-
+	padding: 8px;
+	background: #73e600;
+	height: 595px;
 }
+.Sales{background: #73e600;
+	width: 400px;
+	height:200px;
+	position: relative;
+	padding:10px;
+	color:black;
+	}
+.WeDo{Background: #73e600;
+	color: ;
+	width:1000px ;
+	height: 400px;
+	padding:14px;
+	}
+.address{Background:#73e600;
+	color: ;
+	width: 740px;
+	padding:10px ;
+	height: 400px;
+	
+	
+	
