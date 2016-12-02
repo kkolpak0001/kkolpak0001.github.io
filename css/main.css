@@ -1,55 +1,60 @@
-#logo {
-        width: 100px;
-        length: 100px;
-}
-Navigation {
-        display: inline;
-        
-}
+body	{font-family: Arial, Centaur, "Century Gothic";
+	font-size: 11pt;
+	background:#bfd62b;
+	width: 1750px;}
+h2 { 
+	color: blue;}
 
-body {
-     font-family: Arial, Centaur, "Century Gothic";
-        font-size: 11pt;
-    margin: 60px auto;
-    width: 70%;
-    color: orange;    
-}
-nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
-    list-style: none;
-    font-weight: bold;
-}
-nav ul li, footer ul li {
-    display: inline;
-    margin-right: 20px;
-}
-a {
-    text-decoration: none;
-    color: #999;
-}
-a:hover {
-    text-decoration: underline;
-}
-h1 {
-    font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-}
-p {
-    font-size: 1.5em;
-    line-height: 1.4em;
-    color: #333;
-}
-footer {
-    border-top: 1px solid #d5d5d5;
-    font-size: .8em;
-}
+li.navigation	{display: inline;
+			list-style-type: none;
+			background-color:;
+			color:;
+			}
+				
+img.Logo {
+		width:500px;
+		height:200px;
+		padding: 10px;
+			}
+ul.Media {
+		float: right;
+		width:200px
+		 
+	}
+div.footerer{ display: inline;
+		width:1750px;
+		bottom:2px;
+		position: absolute;
+		border: 3px solid #111111
+		list-style-type:none;
+		}
+.ServicesFooter{
+		: center;
+		color: red;
+		
+				}	
+.request{
+		width: 200px;
+		float: right;
+		padding:3px;
+		position:relative;
+		}
+.News{border: 3px solid #111111;
+	position:relative;
+	
 
-ul.posts { 
-    margin: 20px auto 40px; 
-    font-size: 1.5em;
 }
+.upcoming{border: 3px solid #111111;
+		float:left;
+		width: 100px;
+		position:relative;
+		
 
-ul.posts li {
-    list-style: none;
+}
+.Past{border: 3px solid #111111;
+	float: right;
+	width: 100px;
+	position: relative;
+	
+
 }
